@@ -35,7 +35,6 @@
 
 <a href="https://github.com/TerryThreatt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TerryThreatt&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerryThreatt&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -45,7 +44,7 @@
 <p align="center">
 <a href="https://www.terrythreatt.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.terrythreatt.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/terry-threatt/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Terry%Threatt-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.twitter.com/manwittaplan/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-manwittaplan-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.twitter.com/manwittaplan/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-manwittaplan-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:terry.threatth@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-terry.threatt@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
