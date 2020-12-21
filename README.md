@@ -44,7 +44,7 @@
 <p align="center">
 <a href="https://www.terrythreatt.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.terrythreatt.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/terry-threatt/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Terry%Threatt-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.twitter.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.twitter.com/manwittaplan/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-manwittaplan-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:terry.threatth@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-terry.threatt@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
