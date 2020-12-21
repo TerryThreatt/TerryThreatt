@@ -4,7 +4,7 @@
 
 <h3> 👨🏾‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and solving problems.
 - 🎓 &nbsp; Studied Software Engineering @ Flatiron School Coding Bootcamp.
 - 💼 &nbsp; Looking for work.
 - 🌱 &nbsp; Learning more about React & Python.
