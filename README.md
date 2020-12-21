@@ -2,7 +2,7 @@
 
 <h2> Hey there! I'm Terry.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏾‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Software Engineering @ Flatiron School Coding Bootcamp.
@@ -39,7 +39,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 👉🏾 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.terrythreatt.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.terrythreatt.com-blue?style=flat-square&logo=google-chrome"></a>
