@@ -1,6 +1,6 @@
 
 
-<h2> Hey there! I'm Terry.</h2>
+<h2> Hey there! I'm Terry Threatt.</h2>
 
 <h3> 👨🏾‍💻 &nbsp;About Me </h3>
 
