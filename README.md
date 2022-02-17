@@ -5,8 +5,8 @@
 <h3> 👨🏾‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Flatiron School Coding Bootcamp Grad.
-- 💼 &nbsp; Looking for web development work.
-- 🤔 &nbsp; Exploring new technologies and solving problems.
+- 💼 &nbsp; seeking a new web development role.
+- 🤔 &nbsp; Learning design patterns and system design.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
