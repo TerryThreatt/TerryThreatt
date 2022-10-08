@@ -5,7 +5,7 @@
 <h3> 👨🏾‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Flatiron School Coding Bootcamp Grad.
-- 🤔 &nbsp; Learning rabbitMQ and ElasticSearch
+- 🤔 &nbsp; ElasticSearch
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
