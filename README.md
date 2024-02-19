@@ -36,7 +36,7 @@
 <h3> 👉🏾 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.terrythreatt.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.terrythreatt.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.terrythreatt.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.terrythreatt.dev-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/terry-threatt/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Terry%20Threatt%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.twitter.com/manwittaplan/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-manwittaplan-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:terry.threatt@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-terry.threatt@gmail.com-blue?style=flat-square&logo=gmail"></a>
